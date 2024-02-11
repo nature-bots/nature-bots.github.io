@@ -2,7 +2,7 @@
 title: About Workshop
 feature_text: |
   ## Navigation & Mobile Manipulator in Challenging and Cluttered Natural Environments
-  ICRA 2024 Workshop
+  RSS 2024 Workshop
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
@@ -18,7 +18,6 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 - Heterogeneous multi-robot cooperation
 - (Dense) mapping in cluttered environments
 - Perception systems in complex and dynamic environments
-- Dense mapping in cluttered environments
 - Integrated planning and learning for outdoor robots
 - Applications to environmental monitoring, forestry, precision agriculture
 
