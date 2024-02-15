@@ -26,6 +26,7 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 - Prof. Fei Gao, Zhejiang University
 - Prof. Fu Zhang, University of Hong Kong
 - Prof. Hyun Myung, Korea Adanced Institute Science & Technology
+- Prof. Marco Hutter, ETH Zurich
 - Prof. Marija Popovic, University of Bonn
 - Dr. Peyman Moghadam, CSIRO
 - Prof. Timothy Barfoot, University of Toronto
