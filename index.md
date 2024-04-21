@@ -2,7 +2,7 @@
 title: About Workshop
 feature_text: |
   ## Navigation & Mobile Manipulator in Challenging and Cluttered Natural Environments
-  RSS 2024 Workshop
+  RSS 2024 Half-day Workshop, July 19th
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
@@ -13,39 +13,28 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 ## Topics of Interest
 
 - Navigation of aerial and ground robots in outdoor environments
-- Mobile manipulation for harvesting
 - Large-scale and long-term robot state estimation and navigation
-- Heterogeneous multi-robot cooperation
+- Perception systems in complex and dynamic environments 
 - (Dense) mapping in cluttered environments
-- Perception systems in complex and dynamic environments
 - Integrated planning and learning for outdoor robots
+- Mobile manipulation for harvesting
 - Applications to environmental monitoring, forestry, precision agriculture
 
 
-## Invited Speakers
-- Prof. Fei Gao, Zhejiang University
-- Prof. Fu Zhang, University of Hong Kong
-- Prof. Hyun Myung, Korea Adanced Institute Science & Technology
-- Prof. Marco Hutter, ETH Zurich
-- Prof. Marija Popovic, University of Bonn
-- Dr. Peyman Moghadam, CSIRO
-- Prof. Timothy Barfoot, University of Toronto
-- Prof. Vijay Kumar, University of Pennsylvania
-
-
+<!-- option+space for non-breaking spaces -->
 ## Organizers
-- Dr. Jaehyung Jung, Technical University of Munich
-- Prof. Kostas Alexis, Norwegian University of Science and Technology
-- Prof. Maurice Fallon, University of Oxford
-- Prof. Stefan Leutenegger, Technical University of Munich
+{% include figure.html image="/assets/jj.png" position="left" width="350" height="350" %}
+{% include figure.html image="/assets/kostas.png" position="right" width="350" height="350" %}
+
+|                   [Dr. Jaehyung Jung, TUM](https://srl.cit.tum.de/members/juja)| |                                  [Prof. Konstantinos Alexis, NTNU](https://www.ntnu.edu/employees/konstantinos.alexis) |
+| | |
 
 
-## Workshop Schedule
-TBD
 
+{% include figure.html image="/assets/maurice.jpg" position="left" width="350" height="350" %}
+{% include figure.html image="/assets/stefan.png" position="right" width="350" height="350" %}
 
-## Call for Contributions
-TBD
+|        [Prof. Maurice Fallon, Univ. of Oxford](https://ori.ox.ac.uk/people/maurice-fallon/)| |                      [Prof. Stefan Leutenegger, TUM](https://www.professoren.tum.de/leutenegger-stefan) |
 
 
 <!-- - Available as a **theme gem** and **GitHub Pages** theme
