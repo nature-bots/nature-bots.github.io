@@ -7,6 +7,12 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 aside: false
 ---
 
+#### [Prof. Fei Gao, ZJU](http://zju-fast.com/fei-gao/)
+###### Talk title: 
+######  
+{% include figure.html image="/assets/speaker-fei.jpg" position="left" width="300" height="300" %}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
 #### [Prof. Fu Zhang, HKU](https://mars.hku.hk/people.html)
 ###### Talk title: "UAV navigation and mapping using LiDAR sensors"
 ######  

@@ -9,7 +9,7 @@ aside: false
 *Tentative Schedule*
 ### [13:30 ~ 15:30] Session 1
 - [13:30 ~ 13:40] Introduction
-- [13:40 ~ 14:00] Invited speaker 1
+- [13:40 ~ 14:00] **Prof Fei Gao**
 - [14:00 ~ 14:20] Invited speaker 2
 - [14:20 ~ 14:40] **Prof. Fu Zhang**, UAV navigation and mapping using LiDAR sensors
 - [14:40 ~ 15:00] **Prof. Hyun Myung**, Autonomous robot navigation in rough terrains using spatial AI
