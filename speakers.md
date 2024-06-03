@@ -41,13 +41,21 @@ Over the last decades, small-size multi-copter unmanned aerial vehicles (UAVs) h
 
 
 #### [Prof. Timothy Barfoot, Univ. Toronto](http://asrl.utias.utoronto.ca/~tdb/)
-###### Talk title:
+###### Talk title: Taking a Hard Line:  Robot Navigation When Lighting, Weather, and Geometry Won’t Cooperate
 ######  
 {% include figure.html image="/assets/speaker-Tim.jpg" position="left" width="250" height="250" %}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Bad weather, extreme lighting, long tunnels, and cluttered offroad terrain are just some examples of situations that can challenge our ability to accurately position an autonomous vehicle and perceive its local environment.  I will provide a progress update on our long-term efforts to navigate in such difficult conditions.  On the road, we are testing both lidar and radar-based localization in harsh weather conditions to understand the advantages of each.  As part of this, we are exploring the use of Doppler lidar and Doppler radar to carry out egomotion estimation in geometrically degenerate situations including long tunnels.   Offroad, we also using lidar and radar for long-term route following in rough terrain while avoiding obstacles.  Finally, on the theory side, we have been investigating so-called certifiably optimal algorithms to verify our backend optimization algorithms converge to correct solutions despite poor initial guesses.  We hope this work, alongside the contributions of many others, will help move the field down the long tail of edge and corner cases standing in the way of real-world autonomous vehicles.
 
 
 #### [Prof. Marco Hutter & Jonas Frey, ETH](https://rsl.ethz.ch/the-lab/people.html)
 ###### Talk title:
 ######  
 {% include figure.html image="/assets/speaker-Jonas.jpg" position="left" width="300" height="300" %}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+
+#### [Prof. Vijay Kumar, Upenn](https://www.kumarrobotics.org/dr-vijay-kumar/)
+###### Talk title:
+######  
+{% include figure.html image="/assets/speaker-Kumar.jpg" position="left" width="300" height="300" %}
