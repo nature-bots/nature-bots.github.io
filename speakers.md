@@ -55,7 +55,7 @@ Bad weather, extreme lighting, long tunnels, and cluttered offroad terrain are j
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 
-#### [Prof. Vijay Kumar, Upenn](https://www.kumarrobotics.org/dr-vijay-kumar/)
+#### [Prof. Vijay Kumar, UPenn](https://www.kumarrobotics.org/dr-vijay-kumar/)
 ###### Talk title:
 ######  
 {% include figure.html image="/assets/speaker-Kumar.jpg" position="left" width="300" height="300" %}

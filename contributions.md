@@ -27,9 +27,9 @@ Please use the RSS template [Word](https://roboticsconference.org/docs/paper-tem
 
 
 #### Important Dates
-- **Submission** : 7th June (AoE)
-- **Author notification** : 21st June
-- **Camera Ready Submission** : 28th June (AoE)
+- **Submission** : 14th June (AoE)
+- **Author notification** : 28th June
+- **Camera Ready Submission** : 5th July (AoE)
 - **Workshop date** : 19th July
 
 

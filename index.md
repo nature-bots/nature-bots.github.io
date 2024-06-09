@@ -1,7 +1,7 @@
 ---
 title: About Workshop
 feature_text: |
-  ## Navigation & Mobile Manipulator in Challenging and Cluttered Natural Environments
+  ## Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments
   RSS 2024 Half-day Workshop, July 19th
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
