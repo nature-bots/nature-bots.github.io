@@ -2,7 +2,8 @@
 title: About Workshop
 feature_text: |
   ## Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments
-  RSS 2024 Half-day Workshop, July 19th
+  RSS 2024 Half-day Workshop, July 19th \\
+  ME Lecture Hall A - Leonardo da Vinci
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
@@ -19,6 +20,23 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 - Integrated planning and learning for outdoor robots
 - Mobile manipulation for harvesting
 - Applications to environmental monitoring, forestry, precision agriculture
+
+
+## Accepted papers
+- Erick J. Rodrıguez-Seda, Michael M. D. Kutzer,                                                         
+  "[APF-based Real-Time Cooperative Collision Avoidance for n-DOF Manipulators](/assets/camera-ready/APF-manipulator_Erick.pdf)"
+- Mal Fazliu, Matthew Coombes, Cunjia Liu,                                                          
+  "[Autonomous Gas Distribution Mapping using Multi-Informed Tree Planning](/assets/camera-ready/Gas-Distribution-Mapping_Mal.pdf)"
+- Arun Narenthiran Sivakumar, Ning Wang, Felipe Andrade G. Tommaselli, Mateus Valverde Gasparino, Marcelo Becker, Girish Chowdhary,                             
+  "[CropFollowRL: Learning Under-Canopy Navigation Policy with Keypoints Abstraction](/assets/camera-ready/CropFollowRL_Arun.pdf)"
+- Yiduo Wang, Jesse Morris, Viorela Ila,                                                                    
+  "[DynORecon: Dynamic Object Reconstruction Based on Dynamic SLAM](/assets/camera-ready/DynORecon_Yiduo.pdf)"
+- Giovanni Cioffi, Davide Scaramuzza,                                                                                 
+  "[Learning Dynamics for Agile Quadrotor State Estimation](/assets/camera-ready/Learning-dynamics_Cioffi.pdf)"
+- Mason B. Peterson, Yi Xuan Jia, Yulun Tian, Jonathan P. How,                             
+  "[Outdoor Global Localization via Robust Registration of 3D Open-Set Segments](/assets/camera-ready/Outdoor-localization_Mason.pdf)"
+- Samhita Marri, Arun N. Sivakumar, Naveen K. Uppalapati, Girish Chowdhary, "[PlantTrack: Task-Driven Plant Keypoint Tracking with Zero-Shot Sim2Real Transfer](/assets/camera-ready/Plant-track_Samhita.pdf)"
+- Minghuan Liu, Zixuan Chen, Xuxin Cheng, Yandong Ji, Rizhao Qiu, Ruihan Yang, Xiaolong Wang, "[Visual Whole-Body Control for Legged Loco-Manipulation](/assets/camera-ready/Visual-Whole-Body-Eric.pdf)"
 
 
 <!-- option+space for non-breaking spaces -->
