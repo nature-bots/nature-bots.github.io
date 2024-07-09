@@ -23,20 +23,22 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 
 
 ## Accepted papers
-- Erick J. Rodrıguez-Seda, Michael M. D. Kutzer,                                                         
-  "[APF-based Real-Time Cooperative Collision Avoidance for n-DOF Manipulators](/assets/camera-ready/APF-manipulator_Erick.pdf)"
-- Mal Fazliu, Matthew Coombes, Cunjia Liu,                                                          
-  "[Autonomous Gas Distribution Mapping using Multi-Informed Tree Planning](/assets/camera-ready/Gas-Distribution-Mapping_Mal.pdf)"
-- Arun Narenthiran Sivakumar, Ning Wang, Felipe Andrade G. Tommaselli, Mateus Valverde Gasparino, Marcelo Becker, Girish Chowdhary,                             
-  "[CropFollowRL: Learning Under-Canopy Navigation Policy with Keypoints Abstraction](/assets/camera-ready/CropFollowRL_Arun.pdf)"
-- Yiduo Wang, Jesse Morris, Viorela Ila,                                                                    
-  "[DynORecon: Dynamic Object Reconstruction Based on Dynamic SLAM](/assets/camera-ready/DynORecon_Yiduo.pdf)"
-- Giovanni Cioffi, Davide Scaramuzza,                                                                                 
-  "[Learning Dynamics for Agile Quadrotor State Estimation](/assets/camera-ready/Learning-dynamics_Cioffi.pdf)"
-- Mason B. Peterson, Yi Xuan Jia, Yulun Tian, Jonathan P. How,                             
-  "[Outdoor Global Localization via Robust Registration of 3D Open-Set Segments](/assets/camera-ready/Outdoor-localization_Mason.pdf)"
-- Samhita Marri, Arun N. Sivakumar, Naveen K. Uppalapati, Girish Chowdhary, "[PlantTrack: Task-Driven Plant Keypoint Tracking with Zero-Shot Sim2Real Transfer](/assets/camera-ready/Plant-track_Samhita.pdf)"
-- Minghuan Liu, Zixuan Chen, Xuxin Cheng, Yandong Ji, Rizhao Qiu, Ruihan Yang, Xiaolong Wang, "[Visual Whole-Body Control for Legged Loco-Manipulation](/assets/camera-ready/Visual-Whole-Body-Eric.pdf)"
+- [APF-based Real-Time Cooperative Collision Avoidance for n-DOF Manipulators](/assets/camera-ready/APF-manipulator_Erick.pdf)  
+  Erick J. Rodrıguez-Seda, Michael M. D. Kutzer.
+- [Autonomous Gas Distribution Mapping using Multi-Informed Tree Planning](/assets/camera-ready/Gas-Distribution-Mapping_Mal.pdf)  
+  Mal Fazliu, Matthew Coombes, Cunjia Liu.
+- [CropFollowRL: Learning Under-Canopy Navigation Policy with Keypoints Abstraction](/assets/camera-ready/CropFollowRL_Arun.pdf)  
+  Arun Narenthiran Sivakumar, Ning Wang, Felipe Andrade G. Tommaselli, Mateus Valverde Gasparino, Marcelo Becker, Girish Chowdhary.
+- [DynORecon: Dynamic Object Reconstruction Based on Dynamic SLAM](/assets/camera-ready/DynORecon_Yiduo.pdf)  
+  Yiduo Wang, Jesse Morris, Viorela Ila.
+- [Learning Dynamics for Agile Quadrotor State Estimation](/assets/camera-ready/Learning-dynamics_Cioffi.pdf)  
+  Giovanni Cioffi, Davide Scaramuzza.
+- [Outdoor Global Localization via Robust Registration of 3D Open-Set Segments](/assets/camera-ready/Outdoor-localization_Mason.pdf)  
+  Mason B. Peterson, Yi Xuan Jia, Yulun Tian, Jonathan P. How.
+- [PlantTrack: Task-Driven Plant Keypoint Tracking with Zero-Shot Sim2Real Transfer](/assets/camera-ready/Plant-track_Samhita.pdf)  
+  Samhita Marri, Arun N. Sivakumar, Naveen K. Uppalapati, Girish Chowdhary.
+- [Visual Whole-Body Control for Legged Loco-Manipulation](/assets/camera-ready/Visual-Whole-Body-Eric.pdf)  
+  Minghuan Liu, Zixuan Chen, Xuxin Cheng, Yandong Ji, Rizhao Qiu, Ruihan Yang, Xiaolong Wang.
 
 
 <!-- option+space for non-breaking spaces -->
