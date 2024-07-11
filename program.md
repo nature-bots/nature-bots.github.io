@@ -21,6 +21,6 @@ aside: false
 - [16:00 ~ 16:20] **Prof. Marija Popovic**, Adaptive environmental monitoring using UAVs
 - [16:20 ~ 16:40] **Prof. Timothy Barfoot**, Taking a Hard Line:  Robot Navigation When Lighting, Weather, and Geometry Won’t Cooperate
 - [16:40 ~ 17:00] **Prof. Marco Hutter & Jonas Frey**
-- [17:00 ~ 17:20] **Prof. Vijay Kumar**
+- [17:00 ~ 17:20] **Prof. Vijay Kumar & Jake Welde**
 - [17:20 ~ 17:50] Pannel discussion
 - [17:50 ~ 18:00] Closing
