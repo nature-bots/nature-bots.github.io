@@ -129,8 +129,8 @@ navigation_header:
   url: /
 - title: Speakers
   url: /speakers/
-- title: Program
-  url: /program/
+# - title: Program
+#   url: /program/
 - title: Contributions
   url: /contributions/
 # - title: Elements
