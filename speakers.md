@@ -8,10 +8,12 @@ aside: false
 ---
 
 #### [Prof. Fei Gao, ZJU](http://zju-fast.com/fei-gao/)
-###### Talk title: 
+###### Talk title: "Swarm of Micro Robots Flying Out of Laboratory"
 ######  
 {% include figure.html image="/assets/speaker-fei.jpg" position="left" width="300" height="300" %}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+Multicopter plays a vital role in many areas such as geographic mapping, aerial filming, search and rescue, et al. In recent years, our community has witnessed huge development in autonomous navigation within structured and controlled built environments. Aerial robots, and their swarms, now are required not only to fly out of laboratory, but also to finish more complicated tasks. To this end, building smarter drones with sophisticated functionalities is an attractive research topic. In this talk, I will introduce some new methods of aerial robots developed in my group, which may evolve aerial robotics in three aspects: capability of cluttered environment navigation, extensibility to diverse task requirements, and coordination as a swarm without external facilities. Then, based on real-world requirements, some systematic solutions for formation flight in dense environments are presented, including the architecture, algorithms, engineering considerations. Finally, I will turn to some of our most recent research, on which we are working towards a perception-planning coupled, flexibly coordinated, and large-scale aerial swarm system.
+
 
 #### [Prof. Fu Zhang, HKU](https://mars.hku.hk/people.html)
 ###### Talk title: "UAV navigation and mapping using LiDAR sensors"
@@ -28,7 +30,7 @@ Over the last decades, small-size multi-copter unmanned aerial vehicles (UAVs) h
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 #### [Dr. Peyman Moghadam, CSIRO](https://people.csiro.au/m/p/peyman-moghadam)
-###### Talk title:
+###### Talk title: "Long-Term Robot Learning in Natural Environments: Challenges and Opportunities"
 ######  
 {% include figure.html image="/assets/speaker-Peyman.jpg" position="left" width="300" height="300" %}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 
@@ -49,7 +51,7 @@ Bad weather, extreme lighting, long tunnels, and cluttered offroad terrain are j
 
 
 #### [Prof. Marco Hutter & Jonas Frey, ETH](https://rsl.ethz.ch/the-lab/people.html)
-###### Talk title:
+###### Talk title: "Learning Perception and Navigation: Towards autonomous robots in the wild"
 ######  
 {% include figure.html image="/assets/speaker-Jonas.jpg" position="left" width="300" height="300" %}
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
