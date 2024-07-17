@@ -57,7 +57,9 @@ Bad weather, extreme lighting, long tunnels, and cluttered offroad terrain are j
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 
 
 
-#### [Prof. Vijay Kumar & Jake Welde, UPenn](https://www.kumarrobotics.org/dr-vijay-kumar/)
-###### Talk title:
+#### [Prof. Vijay Kumar, UPenn](https://www.kumarrobotics.org/dr-vijay-kumar/)
+###### Talk title: "Autonomous Micro Aerial Vehicles for Precision Agriculture and Forestry"
 ######  
 {% include figure.html image="/assets/speaker-Kumar.jpg" position="left" width="300" height="300" %}
+
+Autonomous aerial vehicles enable automated creation of high-quality maps of forests and orchards which in turn allow the extraction of actionable information for precision agriculture and forestry. In this talk I will describe our work on developing autonomous micro aerial vehicles, the algorithms used for motion planning and mapping for autonomous flight under the forest canopy and in between tree lines, and the software framework for creating metric-semantic maps. I will also summarize future work on aerial manipulation and our open-source contributions, including our software stack, benchmarks and data sets.

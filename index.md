@@ -21,26 +21,43 @@ Humans are all connected worldwide – We share air, water, and food from our pl
 - Mobile manipulation for harvesting
 - Applications to environmental monitoring, forestry, precision agriculture
 
-
 ## Program
-- [13:30 ~ 13:40] Introduction
-- [13:40 ~ 14:00] **Prof Fei Gao**, Swarm of Micro Robots Flying Out of Laboratory (remote)
-- [14:00 ~ 14:20] **Dr. Peyman Moghadam**, Long-Term Robot Learning in Natural Environments: Challenges and Opportunities (remote)
-- [14:20 ~ 14:40] **Prof. Fu Zhang**, UAV navigation and mapping using LiDAR sensors (remote)
-- [14:40 ~ 15:00] **Prof. Hyun Myung**, Autonomous robot navigation in rough terrains using spatial AI (remote)
-- [15:00 ~ 15:30] Lightning Talks  
-  [Outdoor Global Localization via Robust Registration of 3D Open-Set Segments](/assets/camera-ready/Outdoor-localization_Mason.pdf)  
-  [PlantTrack: Task-Driven Plant Keypoint Tracking with Zero-Shot Sim2Real Transfer](/assets/camera-ready/Plant-track_Samhita.pdf) (remote)  
-  [Visual Whole-Body Control for Legged Loco-Manipulation](/assets/camera-ready/Visual-Whole-Body-Eric.pdf)
-
-#### [15:30 ~ 16:00] Poster session & Coffee break  
-  
-- [16:00 ~ 16:20] **Prof. Marija Popovic**, Adaptive environmental monitoring using UAVs
-- [16:20 ~ 16:40] **Prof. Timothy Barfoot**, Taking a Hard Line:  Robot Navigation When Lighting, Weather, and Geometry Won’t Cooperate
-- [16:40 ~ 17:00] **Prof. Marco Hutter & Jonas Frey**, Learning Perception and Navigation: Towards autonomous robots in the wild
-- [17:00 ~ 17:20] **Prof. Vijay Kumar & Jake Welde**
-- [17:20 ~ 17:50] Pannel discussion
-- [17:50 ~ 18:00] Closing
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid white;
+        }
+</style>
+| 13:30 ~ 13:40 | Introduction |
+| 13:40 ~ 14:00 | **Prof Fei Gao & Tianyue Wu** |
+| | Swarm of Micro Robots Flying Out of Laboratory |
+| 14:00 ~ 14:20 | **Dr. Peyman Moghadam** |
+| | Long-Term Robot Learning in Natural Environments: |
+| | Challenges and Opportunities (remote)
+| 14:20 ~ 14:40 | **Prof. Fu Zhang** |
+| | UAV navigation and mapping using LiDAR sensors (remote) |
+| 14:40 ~ 15:00 | **Prof. Hyun Myung** |
+| | Autonomous robot navigation in rough terrains using spatial AI |
+| | (remote) |
+| 15:00 ~ 15:30 |   Lightning Talks |
+| | **Mason B. Peterson** [Outdoor global localization](/assets/camera-ready/Outdoor-localization_Mason.pdf) |
+| | **Samhita Marri** [PlantTrack](/assets/camera-ready/Plant-track_Samhita.pdf) |
+| | **Minghuan Liu** [Visual whole-body control for legged loco-manipulation](/assets/camera-ready/Visual-Whole-Body-Eric.pdf) |
+| 15:30 ~ 16:00 | Poster session & Coffee break |
+| 16:00 ~ 16:20 | **Prof. Marija Popovic** |
+| | Adaptive environmental monitoring using UAVs |
+| 16:20 ~ 16:40 | **Prof. Timothy Barfoot** |
+| | Taking a Hard Line: Robot Navigation |
+| | When Lighting, Weather, and Geometry Won’t Cooperate |
+| 16:40 ~ 17:00 | **Prof. Marco Hutter & Jonas Frey** |
+| | Learning Perception and Navigation: |
+| | Towards autonomous robots in the wild |
+| 17:00 ~ 17:20 | **Prof. Vijay Kumar** |
+| | Autonomous Micro Aerial Vehicles for Precision Agriculture and|
+| | Forestry (remote) |
+| 17:20 ~ 17:50 | Pannel discussion |
+| 17:50 ~ 18:00 | Paper award & Closing |
+| | |
+{: .tablelines}
 
 
 ## Accepted papers
