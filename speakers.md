@@ -27,7 +27,8 @@ Over the last decades, small-size multi-copter unmanned aerial vehicles (UAVs) h
 ###### Talk title: "Autonomous robot navigation in rough terrains using spatial AI"
 ######  
 {% include figure.html image="/assets/speaker-Hyun.png" position="left" width="300" height="300" %}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+This talk introduces the latest development of spatial AI-based autonomous navigation technologies for autonomous vehicles such as mobile robots, legged robots, and drones. The actual cases developed by KAIST Urban Robotics Lab will be introduced. Specifically, we present various spatial AI frameworks for mobile robots, drones, and legged robots in rough terrains. The deep reinforcement learning-based blind locomotion technology called DreamWaQ will also be introduced.
+  
 
 #### [Dr. Peyman Moghadam, CSIRO](https://people.csiro.au/m/p/peyman-moghadam)
 ###### Talk title: "Long-Term Robot Learning in Natural Environments: Challenges and Opportunities"
