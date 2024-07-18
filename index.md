@@ -3,7 +3,8 @@ title: About Workshop
 feature_text: |
   ## Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments
   RSS 2024 Half-day Workshop, July 19th \\
-  ME Lecture Hall A - Leonardo da Vinci
+  ME Lecture Hall A - Leonardo da Vinci \\
+  [Livestream Zoom](https://tum-conf.zoom-x.de/j/69334617745?pwd=I8CR5FyKehVG2QxzfWCE5FQR4KKjXz.1), [Panel discussion Poll](https://docs.google.com/forms/d/e/1FAIpQLSdzuB0qUOI2VOG3EEaQZTyGQT-8A2RhGBUbg6QVY-m-N_P50g/viewform?usp=pp_url)
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
@@ -28,7 +29,7 @@ Humans are all connected worldwide – We share air, water, and food from our pl
         }
 </style>
 | 13:30 ~ 13:40 | Introduction |
-| 13:40 ~ 14:00 | **Prof Fei Gao & Tianyue Wu** |
+| 13:40 ~ 14:00 | **Prof. Fei Gao & Tianyue Wu** |
 | | Swarm of Micro Robots Flying Out of Laboratory |
 | 14:00 ~ 14:20 | **Dr. Peyman Moghadam** |
 | | Long-Term Robot Learning in Natural Environments: |
