@@ -3,14 +3,15 @@ title: About Workshop
 feature_text: |
   ## Navigation & Mobile Manipulation in Challenging and Cluttered Natural Environments
   RSS 2024 Half-day Workshop, July 19th \\
-  ME Lecture Hall A - Leonardo da Vinci
+  ME Lecture Hall A - Leonardo da Vinci \\
+  Thank you very much for the speakers and attendees!
 feature_image: "https://picsum.photos/1300/400?image=989"
 # excerpt: ""
 ---
 
 Humans are all connected worldwide – We share air, water, and food from our planet. We have responsibilities to monitor and manage our valuable assets; forests, mountains, and crops therein for our future generations. However, current efforts require intensive human labor; and heavy machines come with a dramatic environmental impact, not only regarding carbon footprints, but also soil compaction and noise disturbing ecosystems. Small robots with some degree of autonomy therefore hold enormous promise. However, much of current autonomous robot research and development focuses on their use inside more structured and controlled built environments. The objective of this workshop is to share visions and recent research progress on enabling robot navigation, as well as physical interaction through manipulation in natural outdoors environments, addressing the vast challenges in perception of completely open-ended, sometimes dynamic, and ever-changing surroundings, as well as navigation and interaction therein.
 
-{% include button.html text="🔴Livestream Zoom" link="https://tum-conf.zoom-x.de/j/69334617745?pwd=I8CR5FyKehVG2QxzfWCE5FQR4KKjXz.1" %} {% include button.html text="📊Panel Poll" link="https://docs.google.com/forms/d/e/1FAIpQLSdzuB0qUOI2VOG3EEaQZTyGQT-8A2RhGBUbg6QVY-m-N_P50g/viewform?usp=pp_url" color="#0d94e7" %}
+<!-- {% include button.html text="🔴Livestream Zoom" link="https://tum-conf.zoom-x.de/j/69334617745?pwd=I8CR5FyKehVG2QxzfWCE5FQR4KKjXz.1" %} {% include button.html text="📊Panel Poll" link="https://docs.google.com/forms/d/e/1FAIpQLSdzuB0qUOI2VOG3EEaQZTyGQT-8A2RhGBUbg6QVY-m-N_P50g/viewform?usp=pp_url" color="#0d94e7" %} -->
 
 ## Topics of Interest
 
